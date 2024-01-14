@@ -1,0 +1,17 @@
+{
+  "name": "supertest_api_testing",
+  "version": "1.0.0",
+  "description": "This repository is a demonstration on building fast and maintainable API tests using [SuperTest](https://github.com/visionmedia/supertest), [Mocha](https://mochajs.org/), and [Chai](https://www.chaijs.com/). The examples in this repo are explained in detail in the [Dev Tester blog](https://dev-tester.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^9.2.2",
+    "supertest": "^6.3.3"
+  }
+}
